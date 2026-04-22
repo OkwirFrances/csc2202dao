@@ -1,23 +1,23 @@
 # Lab 0: Setting Up Infrastructure
 
 ## Group Information
-- **Group ID:** [Your Group ID, e.g., DAA, AZZ]
-- **Group Email:** csc26-[group_id]@cit.ac.ug
-- **Repository:** [Your GitHub Repo Link]
+- **Group ID:** DAO
+- **Group Email:** csc26-dao@cit.ac.ug
+- **Repository:** git@github.com:OkwirFrances/csc2202dao.git
 - **Members:**
-  - [Member 1 Name]
-  - [Member 2 Name]
-  - [Member 3 Name]
-  - [Member 4 Name]
-  - [Member 5 Name]
+  - Okwir Francis
+  - Niyigaba Donata
+  - Kabenge Joel Mubuuke
+  - Akandwanaho Jonan Rwangoga
+ 
 
 ## Lab Objectives
 - [x] Set up group communication
 - [x] Create GitHub repository
-- [ ] Create CloudLab accounts
-- [ ] Set up SSH keys and authentication agent
-- [ ] Launch first CloudLab experiment
-- [ ] Verify SSH access to experiment nodes
+- [x] Create CloudLab accounts
+- [x] Set up SSH keys and authentication agent
+- [x] Launch first CloudLab experiment
+- [x] Verify SSH access to experiment nodes
 
 ---
 
